@@ -17,6 +17,5 @@ variable "azs" {
 }
 
 variable "region" {
-  type = string
-  default = "eu-central-1"  // Optional: Set a default region
+
 }
