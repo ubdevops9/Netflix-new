@@ -17,5 +17,5 @@ variable "azs" {
 }
 
 variable "region" {
-
+  type        = string
 }
